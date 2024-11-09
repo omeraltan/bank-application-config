@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Bank Application cards related denemes APIs "
+  message: "Welcome to Bank Application cards related enemies APIs "
   contactDetails:
     name: "Zeynep ALTAN - Product Owner"
     email: "zeynepaltan@hotmail.com"
